@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sleep-time-planner/static/css/main.1d106724.chunk.css",
+    "main.js": "/sleep-time-planner/static/js/main.0709cb6b.chunk.js",
+    "main.js.map": "/sleep-time-planner/static/js/main.0709cb6b.chunk.js.map",
+    "runtime-main.js": "/sleep-time-planner/static/js/runtime-main.991141da.js",
+    "runtime-main.js.map": "/sleep-time-planner/static/js/runtime-main.991141da.js.map",
+    "static/js/2.11cd722a.chunk.js": "/sleep-time-planner/static/js/2.11cd722a.chunk.js",
+    "static/js/2.11cd722a.chunk.js.map": "/sleep-time-planner/static/js/2.11cd722a.chunk.js.map",
+    "index.html": "/sleep-time-planner/index.html",
+    "precache-manifest.688c30ea8d193a5b6d987fe8c20e1e94.js": "/sleep-time-planner/precache-manifest.688c30ea8d193a5b6d987fe8c20e1e94.js",
+    "service-worker.js": "/sleep-time-planner/service-worker.js",
+    "static/css/main.1d106724.chunk.css.map": "/sleep-time-planner/static/css/main.1d106724.chunk.css.map",
+    "static/js/2.11cd722a.chunk.js.LICENSE.txt": "/sleep-time-planner/static/js/2.11cd722a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.991141da.js",
+    "static/js/2.11cd722a.chunk.js",
+    "static/css/main.1d106724.chunk.css",
+    "static/js/main.0709cb6b.chunk.js"
+  ]
+}
