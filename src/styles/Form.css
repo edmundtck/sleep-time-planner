@@ -62,6 +62,10 @@
 		display: block;
 	}
 
+	.form__col .form__field:first-child {
+		margin-bottom: .2rem;
+	}
+
 	.form__group--btn {
 		text-align: center;
 	}
